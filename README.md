@@ -245,4 +245,7 @@ Y se ejecutarán las pruebas de carga sobre los escenarios cargados en el direct
 ### Pruebas selenium
 Actualmente las pruebas de selenium se encuentran en la rama del proyecto llamada "Selenium", donde se encuentra el proyecto entero con estas pruebas incluidas, importante tener el firefox portable en el C://.
 
-Las hemos tenido que retirar de la rama principal porque da conflictos con travys CI
+Las hemos tenido que retirar de la rama principal porque da conflictos con travys CI.
+
+### Endpoint despliegue
+Despliegue: incimanagere1b.herokuapp.com
