@@ -248,4 +248,4 @@ Actualmente las pruebas de selenium se encuentran en la rama del proyecto llamad
 Las hemos tenido que retirar de la rama principal porque da conflictos con travys CI.
 
 ### Endpoint despliegue
-Despliegue: incimanagere1b.herokuapp.com
+Despliegue: https://incimanagere1b.herokuapp.com/ ó http://incimanagere1b.herokuapp.com/
